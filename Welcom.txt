@@ -1,2 +1,6 @@
 print (welcome)
+<<<<<<< HEAD
 print (how do you do)
+=======
+print (what's up)
+>>>>>>> parent of b1ae9a0... Revert "Приветствие"
